@@ -1,0 +1,14 @@
+C:\Users\marce\Desktop\PipeServer\PipeServer\bin\Debug\net8.0\PipeServer.exe
+C:\Users\marce\Desktop\PipeServer\PipeServer\bin\Debug\net8.0\PipeServer.deps.json
+C:\Users\marce\Desktop\PipeServer\PipeServer\bin\Debug\net8.0\PipeServer.runtimeconfig.json
+C:\Users\marce\Desktop\PipeServer\PipeServer\bin\Debug\net8.0\PipeServer.dll
+C:\Users\marce\Desktop\PipeServer\PipeServer\bin\Debug\net8.0\PipeServer.pdb
+C:\Users\marce\Desktop\PipeServer\PipeServer\obj\Debug\net8.0\PipeServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\PipeServer\PipeServer\obj\Debug\net8.0\PipeServer.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\PipeServer\PipeServer\obj\Debug\net8.0\PipeServer.AssemblyInfo.cs
+C:\Users\marce\Desktop\PipeServer\PipeServer\obj\Debug\net8.0\PipeServer.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\PipeServer\PipeServer\obj\Debug\net8.0\PipeServer.dll
+C:\Users\marce\Desktop\PipeServer\PipeServer\obj\Debug\net8.0\refint\PipeServer.dll
+C:\Users\marce\Desktop\PipeServer\PipeServer\obj\Debug\net8.0\PipeServer.pdb
+C:\Users\marce\Desktop\PipeServer\PipeServer\obj\Debug\net8.0\PipeServer.genruntimeconfig.cache
+C:\Users\marce\Desktop\PipeServer\PipeServer\obj\Debug\net8.0\ref\PipeServer.dll
